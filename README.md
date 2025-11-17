@@ -9,6 +9,10 @@ Hello, my name is Gianfranco. Since early 2024, I have been studying and trainin
 I have been developing as a full stack programmer for years, and in recent years I have also taken courses in data analysis and, in the last year, QA testing. During my time as a freelancer, I developed skills in teamwork, project management, programming, among others. My previous jobs, which had nothing to do with IT, provided me with social, team leadership, and management skills, which I believe are noteworthy. Currently, I would like to develop my skills in the area of QA as a Jr Tester.
 
 ### Tools :wrench:
+
+Follow my progress on the roadmap to becoming an AI QA Tester, 12 weeks.
+[Roadmap in Notion](https://cute-sight-33a.notion.site/b121ea27030f4295bb38c6565aa6b4a0?v=58b8b160f3fc41068067820f03d173b2&pvs=143)
+
 * [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/tour) - project management
 * [Confluence](https://www.atlassian.com/software/confluence) - storing informations and documents about project
 * [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager) - bug tracking
